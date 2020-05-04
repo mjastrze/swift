@@ -1,2 +1,2 @@
 language = "swift"
-run = "swiftc -o build/main protocols.swift \n build/main"
+run = "swiftc -o build/main error.swift \n build/main"
