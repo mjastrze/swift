@@ -1,2 +1,2 @@
 language = "swift"
-run = ""
+run = "swiftc -o build/main generics.swift \n build/main"
